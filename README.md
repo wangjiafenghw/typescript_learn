@@ -2,6 +2,7 @@
 学习一下
 
 ## 保留字
+```
 OpenBraceToken {
 CloseBraceToken }
 OpenParenToken (
@@ -128,6 +129,7 @@ UniqueKeyword unique
 FromKeyword from
 GlobalKeyword global
 OfKeyword of
+```
 
 作者：杨明明
 链接：https://juejin.im/post/5b9b4918f265da0a9c786219
